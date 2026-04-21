@@ -77,3 +77,24 @@ nav a:hover {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
 }
+
+#cart {
+  position: fixed;
+  top: 15px;
+  right: 15px;
+  background: #111;
+  padding: 1rem;
+  border-radius: 10px;
+  border: 1px solid #d4af37;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+  border: 1px solid #d4af37;
+  background: #111;
+  color: white;
+}
+
