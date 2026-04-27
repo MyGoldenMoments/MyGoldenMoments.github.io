@@ -172,7 +172,7 @@ header .fa-bars:hover{
 
 .about .row .video-container video{
     width: 100%;
-    border: 1rem solid var(--gold);
+    border: .2rem solid var(--gold);
     border-radius: .5rem;
     box-shadow: 0 .5rem 1rem rgba(0,0,0, .1);
     height: 100%;
@@ -182,7 +182,7 @@ header .fa-bars:hover{
 .about .row .video-container h3{
     position: absolute;
     top: 50%; transform: translateY(-50%);
-    font-size: 3rem;
+    font-size: 2rem;
     color: #333;
     background: var(--gold);
     width: 100%;
