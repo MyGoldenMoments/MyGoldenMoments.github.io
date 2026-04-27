@@ -188,7 +188,7 @@ header .fa-bars:hover{
     width: 100%;
     padding: 1rem 2rem;
     text-align: center;
-    mix-blend-mode: normal;
+    mix-blend-mode: screen;
 
 }
 
